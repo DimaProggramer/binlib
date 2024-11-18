@@ -1,7 +1,7 @@
 # tests/test.py
 
 import unittest
-from binary_library import text_to_binary, binary_to_text, is_valid_binary, clean_binary
+from binlib import text_to_binary, binary_to_text, is_valid_binary, clean_binary
 
 class TestBinaryLibrary(unittest.TestCase):
 
