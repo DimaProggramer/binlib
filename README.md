@@ -94,3 +94,12 @@ except ValueError as e:
 ## License
 
 This library is distributed under the MIT License. See the LICENSE file for more details.
+
+# Tests
+``` python
+.....
+----------------------------------------------------------------------
+Ran 5 tests in 0.002s
+
+OK
+```
