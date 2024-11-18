@@ -1,0 +1,15 @@
+# Just tree
+my_project/
+│
+├── binary_library/
+│   ├── __init__.py
+│   ├── encoder.py
+│   ├── decoder.py
+│   └── utils.py
+│
+├── tests/
+│   └── test_binary_library.py  # Тесты
+│
+├── LICENSE
+├── setup.py
+└── README.md
